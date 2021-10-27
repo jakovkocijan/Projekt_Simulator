@@ -1,0 +1,2 @@
+# Projekt_Simulator
+OSNOVE PROGRAMSKEGA INŽINIRSTVA
